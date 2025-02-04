@@ -33,11 +33,10 @@ Follow these steps to get your API credentials:
 4. **Retrieve Your API Credentials**  
    - Once the application is created, your `api_id` and `api_hash` will be displayed.  
    - Save these credentials securely.  
+   - For a step-by-step guide, watch this video: [Click Here](https://t.me/tele_monitor_app/6).   
 
-## 4️⃣ Watch the API Credentials Tutorial  
-For a step-by-step guide, watch this video: [Click Here](https://t.me/tele_monitor_app/6).  
 
 ## ⚠️ Important Notes  
 - 🚨 **Never share your `api_id` and `api_hash` publicly.**  
 - 🔑 These credentials provide access to Telegram's API, so handle them with care.  
-- 🛑 If compromised, revoke and regenerate them from the Telegram portal.  
+
