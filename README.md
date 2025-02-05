@@ -1,6 +1,6 @@
 # System Requirements and Setup Guide
 
-## 1️⃣ Enable Telegram Notifications  
+## 1️⃣ Enable Bot Notifications  
 To receive notifications, follow these steps:  
 - Open Telegram and search for the bot: `@notificmemybot`.  
 - Click **Start** to activate the bot.  
